@@ -1,0 +1,129 @@
+
+
+
+
+.mainCardsItems {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.cardsItem {
+    padding: 22px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.cardTitle {
+    color: #242424;
+    text-align: center;
+    font-family: Inter;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: -0.3px;
+}
+
+
+.cardSubtitle {
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.mainCardBtn {
+    color: #067A46;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: inline-flex;
+    padding: 11.6px 24.25px 12.4px 23px;
+    align-items: flex-start;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: 0px 0px 0px 1px #067A46 inset;
+    border: none;
+    cursor: pointer;
+}
+
+.mainCardBtnItem {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.cardWrapper {
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+
+.cardRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 20px;
+    gap: 10px;
+}
+
+
+.ItemsTitle {
+    padding-top: 20px;
+}
+
+.mainCardsMainWrap {
+    margin-top: 80px;
+}
+
+.MainRow {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+}
+
+.mainCardsMain {
+    color: #242424;
+    text-align: center;
+    font-family: Inter;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: -0.3px;
+}
+
+.cardRowSubtitle {
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.RowSubtitleItem{
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.cardCol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

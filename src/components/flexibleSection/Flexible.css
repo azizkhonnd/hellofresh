@@ -1,0 +1,58 @@
+.Flexible {
+    margin-top: 60px;
+    background-image: url(./img/flexibleBg.jpg) ;
+    opacity: 0.9;
+    background-size: cover;
+    
+}
+
+.FlexCol {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+}
+
+
+.FlexibleTitle {
+    text-align: center;
+}
+
+.FlexibleBtn {
+    margin-top: 32px;
+    display: inline-flex;
+    padding: 11.6px 23.375px 12.4px 24px;
+    align-items: flex-start;
+    border-radius: 4px;
+    background: #067A46;
+    color: #FFF;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    cursor: pointer;
+    border: none;
+}
+
+.flexTitle {
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px;
+}
+
+.flexSubtitle {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}

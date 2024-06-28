@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Source+Sans+3&display=swap');
+
+
+
+
+.cardItems {
+    display: flex;
+    justify-content: center;
+}
+
+.cardWrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+
+.card {
+    padding: 20px;
+    text-align: center;
+}
+
+.CardSubtitle {
+    display: flex;
+    width: 192.625px;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Cardtitle {
+    padding: 20px 0px;
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.3px;
+}
+
+.cardRow {
+    width: 230px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.cardBtn {
+    padding: 11.6px 23.875px 12.4px 24px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: 0px 0px 0px 1px #067A46 inset;
+    border: none;
+    color: #067A46;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    cursor: pointer;
+
+}

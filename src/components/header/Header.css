@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@600&display=swap');
+
+
+
+.navWrapper {
+    display: flex;
+    gap: 27px;
+    align-items: center;
+}
+
+.LogoItem{
+    align-items: center;
+    gap: 40px;
+    display: flex;
+}
+
+.NavItem {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.navlink {
+    color: #242424;
+    text-align: center;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    transition: 0.3s;
+
+    &:hover {
+        color: #067A46;
+    }
+}
+
+.Navbarbtn {
+    padding: 7.6px 28.65px 8.4px 29.35px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.00);
+    box-shadow: 0px 0px 0px 1px #067A46 inset;
+    outline: none;
+    border: none;
+    color: #067A46;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    transition: 0.3s;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #067A46;
+        color: #fff;
+    }
+}

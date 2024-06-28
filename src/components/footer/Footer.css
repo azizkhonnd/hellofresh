@@ -1,0 +1,66 @@
+.footerNavbar {
+    margin-top: 86px;
+    width: 1150px;
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.footerNavlink {
+    color: #067A46;
+    font-family: "Source Sans 3";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footerSubtitle {
+    margin-bottom: 8px;
+    color: #242424;
+    font-family: "Source Sans 3";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+
+.footerNavMenu{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.footerNavlinkApp{
+    color: #067A46;
+    font-family: "Source Sans 3";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.socialMedia{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 84px;
+    margin-left: 100px;
+}
+
+.navCondtions{
+    display: flex;
+    gap: 40px;
+}
+
+
+.footerWrapNav{
+    display: flex;
+    gap: 40px;
+}
+
+.socMedia{
+    display: flex;
+    gap: 25px   ;
+}
